@@ -1,4 +1,4 @@
 #!/bin/bash
-echo"csulb username is Benny.Lopez@student.csulb.edu
+echo"CSULB username is Benny.Lopez@student.csulb.edu"
 
 
